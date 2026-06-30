@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hanxiang Zhang, Ph.D."
+title                    : "Hanxiang Zhang's Web."
 title_separator          : "-"
 name                     : &name "Hanxiang Zhang"
 description              : &description "RF/Microwave Circuits Design, Beamforming Phased Array System"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,10 +24,10 @@ repository               : "judgeblade/Personal_Portfolio_v2"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hanxiang Zhang"
-  pronouns         : "Hanshiang Chang" 
+  name             : "Hanxiang Zhang, Ph.D."
+  pronouns         : "Pronouns: Hanshiang Chang" 
   bio              : "RF/Microwave Engineering | Beamforming Phased Arrays | Applied Electromagnetics"
-  location         : "United States"
+  location         : "Grand Forks, ND, United States"
   employer         : "University of North Dakota"
   uri              : # URL
   email            : "none@example.org" 
