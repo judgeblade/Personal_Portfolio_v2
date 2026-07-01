@@ -33,7 +33,7 @@ Service and leadership
 ======
 * Peer-Reviewer
   * IEEE Transactions on Microwave Theory and Techniques (T-MTT)
-  * IEEE Transactions on Circuits and Systems I: Regular Paper (T-CSA I)
+  * IEEE Transactions on Circuits and Systems I: Regular Paper (T-CAS I)
   * IEEE Transactions on Cricutis and Systems II: Brief Express (T-CAS II)
   * IEEE Microwave and Wireless Technology Letters (MWTL)
   * Scientific Reports
