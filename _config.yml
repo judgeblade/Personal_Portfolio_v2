@@ -23,14 +23,13 @@ repository               : "judgeblade/Personal_Portfolio_v2"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "a2.jpg"
   name             : "Hanxiang Zhang, Ph.D."
-  pronouns         : "Pronouns: Hanshiang Chang" 
-  bio              : "RF/Microwave Engineering | Beamforming Phased Arrays | Applied Electromagnetics"
+  bio              : "Assistant Professor"
   location         : "Grand Forks, ND, United States"
   employer         : "University of North Dakota"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hz21c@fsu.edu" 
 
   # Academic websites
   academia         : # URL
@@ -38,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=xgBZmXEAAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1693-6570"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
