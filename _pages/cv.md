@@ -11,27 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D - Florida State University, Tallahassee, FL, 2025
+* M.S. - University of Notre Dame, South Bend, IN, 2021
+* B.S. - Huaiyin Normal University, Huai'an, Jiangsu, China, 2016
 
-Work experience
+Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 07/2025-07/2026: Postdoctoral Scholargit stat
+  * FAMU-FSU College of Engineering, Florida State University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 12/2024-06/2025: Sr. Electrical Engineer
+  * Scotts Micracle-Gro Company - R&D department
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 08/2021-12/2024: Research Assistant
+  * FAMU-FSU College of Engineering
+
+Service and leadership
+======
+* Peer-Reviewer
+  * IEEE Transactions on Microwave Theory and Techniques
+  * IEEE Transactions on Circuits and Systems I: Regular Paper
+  * IEEE Transactions on Cricutis and Systems II: Brief Express
+  * IEEE Microwave and Wireless Technology Letters
+  * Scientific Reports
+* Techinical Committee Service
+  * IEEE Dallas Circuits and Systems Conference (DSCA)
+  * IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (ISAIA)
+
 Skills
 ======
 * Skill 1
@@ -52,13 +58,5 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
