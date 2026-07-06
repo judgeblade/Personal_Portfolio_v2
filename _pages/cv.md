@@ -31,12 +31,12 @@ Professional Experience
 
 Selected Publications
 ======
-* <strong>H. Zhang</strong>, H. Yan, S. Z. Pour, et al., "A Novel Reconfigurable Real-Time RF Signal Processor in Application of Wideband Phased Array for <i>S-Band</i> to <i>Ku</i>-Band Satellite Communications"<i>IEEE Transactions on Microwave Theory and Techniques</i> (T-MTT), July. 2026
+* <strong>H. Zhang</strong>, H. Yan, S. Z. Pour, et al., "A Novel Reconfigurable Real-Time RF Signal Processor in Application of Wideband Phased Array for <i>S</i>-Band to <i>Ku</i>-Band Satellite Communications"<i>IEEE Transactions on Microwave Theory and Techniques</i> (T-MTT), July 2026
 * <strong>H. Zhang</strong>, H. Yan, F. Yan, et al., “An 18:1 Bandwidth 180º with Wideband Common-Mode Rejection Balun” <i>IEEE MTT- S International Microwave Symposium</i> (IMS), Boston, MA, USA, June 2026.
-* <strong>H. Zhang</strong>, S. Z. Pour, et al., “A Low-Cost Monopulse Radar Receiver with Relaxed Angular Ambiguity Estimation via Deep Neural Network Learning Method,” <i>IEEE Transactions on Radar Systems</i> (T-RS), May. 2026.
+* <strong>H. Zhang</strong>, S. Z. Pour, et al., “[A Low-Cost Monopulse Radar Receiver with Relaxed Angular Ambiguity Estimation via Deep Neural Network Learning Method](https://ieeexplore.ieee.org/abstract/document/11515239),” <i>IEEE Transactions on Radar Systems</i> (T-RS), May. 2026.
 * S. Z. Pour, <strong>H. Zhang</strong>, P. Liu, B. Arigong, “Inverse Design and 3D Printing of a Multiport Microwave Power Splitter: A Scalable Electromagnetic Design Framework”, <i>Communications Engineering</i>, Feb. 2026.
 * M. Uzair, <strong>H. Zhang</strong>, A. Naseem, B. Arigong, “RF Signal Processing True Time-Delay Beamforming Phased Array” <i>IEEE Transactions on Microwave Theory and Techniques</i> (T-MTT), Sept. 2025.
-* <strong>H. Zhang</strong>, et al., “Real-Time Flexible Temporal Sequence RF Spectrum Sniffer with RF Processing Group Delay Network” <i>IEEE Microwave and Wireless Technology Letters</i> (MTWL), April 2025.
+* <strong>H. Zhang</strong>, et al., “Real-Time Flexible Temporal Sequence RF Spectrum Sniffer with RF Processing Group Delay Network” <i>IEEE Microwave and Wireless Technology Letters</i> (MWTL), April 2025.
 * <strong>H. Zhang</strong>, et al., “A Dual-Band 3 × 3 Nolen Matrix Network with Distinct Progressive Phase Difference,” <i>IEEE Radio and Wireless Symposium</i> (RWS), San Juan, Puerto Rico, Jan. 2025.
 * H. Yan, <strong>H. Zhang</strong>, et al., “A Switchable Band RF/Analog Processing Single Sideband Mixer for Distributed Array Phase Synchronization,” <i>IEEE Transactions on Microwave Theory and Techniques</i> (T-MTT), Nov. 2024.
 * <strong>H. Zhang</strong>, H. Ren. P. Liu, H. Yan, B. Arigong, “Tunable 3 × 3 Nolen Matrix Network for Power-Saving Phased Array,” <i>IEEE Microwave and Wireless Technology Letters</i> (MWTL), June 2024.
