@@ -9,10 +9,7 @@
 
 main:
   - title: "Research"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /publications/  
 
   - title: "Teaching"
     url: /teaching/    
@@ -22,12 +19,12 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Group"
+    url: /talks/ 
     
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
+      
   - title: "Guide"
     url: /markdown/
