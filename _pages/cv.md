@@ -45,17 +45,17 @@ Service and leadership
 
 Selected Publications
 ======
-* H. Zhang, H. Yan, F. Yan, et al., “An 18:1 Bandwidth 180º with Wideband Common-Mode Rejection Balun” IEEE MTT- S International Microwave Symposium (IMS), Boston, MA, USA, June 2026.
-* H. Zhang, S. Z. Pour, et al., “A Low-Cost Monopulse Radar Receiver with Relaxed Angular Ambiguity Estimation via Deep Neural Network Learning Method,” IEEE Transactions on Radar Systems, May. 2026.
-* S. Z. Pour, H. Zhang, P. Liu, B. Arigong, “Inverse Design and 3D Printing of a Multiport Microwave Power Splitter: A Scalable Electromagnetic Design Framework”, Communications Engineering, Feb. 2026.
-* M. Uzair, H. Zhang, A. Naseem, B. Arigong, “RF Signal Processing True Time-Delay Beamforming Phased Array” IEEE Transactions on Microwave Theory and Techniques, Sept. 2025.
-* H. Zhang, et al., “Real-Time Flexible Temporal Sequence RF Spectrum Sniffer with RF Processing Group Delay Network” IEEE Microwave and Wireless Technology Letters, April 2025.
-* H. Yan, H. Zhang, et al., “A Switchable Band RF/Analog Processing Single Sideband Mixer for Distributed Array Phase Synchronization,” IEEE Transactions on Microwave Theory and Techniques, Nov. 2024.
-* H. Zhang, H. Ren. P. Liu, H. Yan, B. Arigong, “Tunable 3 × 3 Nolen Matrix Network for Power-Saving Phased Array,” IEEE Microwave and Wireless Technology Letters, June 2024.
-* H. Zhang, B. Arigong, “A Novel Frequency Reconfigurable RF Hilbert Transformer for Real-Time Analog Signal Processing” IEEE Transactions on Circuits and Systems II: Express Briefs, Dec. 2022.
-* H. Zhang, B. Arigong, “Fully 3D Coverage Beamforming Phased Array with Reduced Phase Shifters and Control 2D Tunable 3 × 3 Nolen Matrix” IEEE International Symposium on Phased Array & Technology, Waltham, MA, USA, Oct. 2022.
-* H. Ren, H. Zhang, Y. Jin, Y. Gu, B. Arigong, “A Novel 2D 3 × 3 Nolen Matrix for 2D Beamforming Applications” IEEE Transactions on Microwave Theory and Techniques, June 2019.
-* H. Zhang, H. Ren, et al., “A Microstrip Line Reflection-Type Phase Shifter for 60GHz Phased Array” IEEE MTT-S International Microwave Symposium (IMS), Boston, MA, USA, June 2019.
+* H. Zhang, H. Yan, F. Yan, et al., “An 18:1 Bandwidth 180º with Wideband Common-Mode Rejection Balun” <i>IEEE MTT- S International Microwave Symposium<i> (IMS), Boston, MA, USA, June 2026.
+* H. Zhang, S. Z. Pour, et al., “A Low-Cost Monopulse Radar Receiver with Relaxed Angular Ambiguity Estimation via Deep Neural Network Learning Method,” <i>IEEE Transactions on Radar Systems<i>, May. 2026.
+* S. Z. Pour, H. Zhang, P. Liu, B. Arigong, “Inverse Design and 3D Printing of a Multiport Microwave Power Splitter: A Scalable Electromagnetic Design Framework”, <i>Communications Engineering<i>, Feb. 2026.
+* M. Uzair, H. Zhang, A. Naseem, B. Arigong, “RF Signal Processing True Time-Delay Beamforming Phased Array” <i>IEEE Transactions on Microwave Theory and Techniques<i>, Sept. 2025.
+* H. Zhang, et al., “Real-Time Flexible Temporal Sequence RF Spectrum Sniffer with RF Processing Group Delay Network” <i>IEEE Microwave and Wireless Technology Letters<i>, April 2025.
+* H. Yan, H. Zhang, et al., “A Switchable Band RF/Analog Processing Single Sideband Mixer for Distributed Array Phase Synchronization,” <i>IEEE Transactions on Microwave Theory and Techniques<i>, Nov. 2024.
+* H. Zhang, H. Ren. P. Liu, H. Yan, B. Arigong, “Tunable 3 × 3 Nolen Matrix Network for Power-Saving Phased Array,” <i>IEEE Microwave and Wireless Technology Letters<i>, June 2024.
+* H. Zhang, B. Arigong, “A Novel Frequency Reconfigurable RF Hilbert Transformer for Real-Time Analog Signal Processing” <i>IEEE Transactions on Circuits and Systems II: Express Briefs<i>, Dec. 2022.
+* H. Zhang, B. Arigong, “Fully 3D Coverage Beamforming Phased Array with Reduced Phase Shifters and Control 2D Tunable 3 × 3 Nolen Matrix” <i>IEEE International Symposium on Phased Array & Technology<i>, Waltham, MA, USA, Oct. 2022.
+* H. Ren, H. Zhang, Y. Jin, Y. Gu, B. Arigong, “A Novel 2D 3 × 3 Nolen Matrix for 2D Beamforming Applications” <i>IEEE Transactions on Microwave Theory and Techniques<i>, June 2019.
+* H. Zhang, H. Ren, et al., “A Microstrip Line Reflection-Type Phase Shifter for 60GHz Phased Array” <i>IEEE MTT-S International Microwave Symposium<i> (IMS), Boston, MA, USA, June 2019.
   
 
 
