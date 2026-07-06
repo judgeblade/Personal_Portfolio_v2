@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+======
 {% include base_path %}
 
 Education
@@ -18,30 +18,16 @@ Education
 Professional Experience
 ======
 * 07/2025-07/2026: FAMU-FSU College of Engineering, Florida State University
-  * Postdoctoral Research Scholar
+  - Postdoctoral Research Scholar
 
 * 12/2024-06/2025: Scotts Micracle-Gro Company - R&D department
-  * Sr. Electrical Engineer
+  - Sr. Electrical Engineer
 
 * 08/2021-12/2024: FAMU-FSU College of Engineering, Florida State University
-  * Graduate Research Assistant
+  - Graduate Research Assistant
 
 * 08/2019-05/2021: University of Notre Dame
-  * Graduate Teaching and Research Assistant
-
-Service and leadership
-======
-* Peer-Reviewer Service
-  * IEEE Transactions on Microwave Theory and Techniques (T-MTT)
-  * IEEE Transactions on Circuits and Systems I: Regular Paper (T-CAS I)
-  * IEEE Transactions on Cricutis and Systems II: Brief Express (T-CAS II)
-  * IEEE Microwave and Wireless Technology Letters (MWTL)
-  * Scientific Reports
-* Techinical Committee Service
-  * IEEE Dallas Circuits and Systems Conference (DSCA)
-  * IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (ISAIA)
-* Editorialship Service
-  * MDPI Sensors (special issue) - AI-Driven innovations for Enhanced Signal Intelligence: Applications in Radar and Biomedical Imaging Sensing 
+  - Graduate Teaching and Research Assistant
 
 Selected Publications
 ======
@@ -54,10 +40,32 @@ Selected Publications
 * H. Yan, <strong>H. Zhang</strong>, et al., “A Switchable Band RF/Analog Processing Single Sideband Mixer for Distributed Array Phase Synchronization,” <i>IEEE Transactions on Microwave Theory and Techniques</i> (T-MTT), Nov. 2024.
 * <strong>H. Zhang</strong>, H. Ren. P. Liu, H. Yan, B. Arigong, “Tunable 3 × 3 Nolen Matrix Network for Power-Saving Phased Array,” <i>IEEE Microwave and Wireless Technology Letters</i> (MWTL), June 2024.
 * <strong>H. Zhang</strong>, B. Arigong, “A Novel Frequency Reconfigurable RF Hilbert Transformer for Real-Time Analog Signal Processing” <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i> (TCAS-II), Dec. 2022.
-* <strong>H. Zhang</strong>, B. Arigong, “Fully 3D Coverage Beamforming Phased Array with Reduced Phase Shifters and Control 2D Tunable 3 × 3 Nolen Matrix” <i>IEEE International Symposium on Phased Array & Technology<i> (PAST), Waltham, MA, USA, Oct. 2022.
-* H. Ren, <strong>H. Zhang</strong>, B. Arigong, “Ultra-Compact 3 × 3 Nolen Matrix Beamforming Network” IET Microwaves, Antenna & Propagation, Feb. 2020.
+* <strong>H. Zhang</strong>, B. Arigong, “Fully 3D Coverage Beamforming Phased Array with Reduced Phase Shifters and Control 2D Tunable 3 × 3 Nolen Matrix” <i>IEEE International Symposium on Phased Array & Technology</i> (PAST), Waltham, MA, USA, Oct. 2022.
+* H. Ren, <strong>H. Zhang</strong>, B. Arigong, “Ultra-Compact 3 × 3 Nolen Matrix Beamforming Network” <i>IET Microwaves, Antenna & Propagation</i>, Feb. 2020.
 * H. Ren, <strong>H. Zhang</strong>, Y. Jin, Y. Gu, B. Arigong, “A Novel 2D 3 × 3 Nolen Matrix for 2D Beamforming Applications” <i>IEEE Transactions on Microwave Theory and Techniques</i> (T-MTT), June 2019.
 * <strong>H. Zhang</strong>, H. Ren, et al., “A Microstrip Line Reflection-Type Phase Shifter for 60GHz Phased Array” <i>IEEE MTT-S International Microwave Symposium</i> (IMS), Boston, MA, USA, June 2019.
+
+Awards/Honors
+======
+* Student Paper Contest Finalist - IEEE MTT-S Radio & Wireless Symposium (RWS), Jan. 2025
+* Student Paper Contest Finalist - IEEE MTT-S Radio & Wireless Symposium (RWS), Jan. 2024
+* 2nd Place Award of Student Research Competition - IEEE Symposium on Wireless and Microwave Circuits and Systems (WMCS) April 2023
+
+Service and leadership
+======
+* Peer-Reviewer Service
+  - IEEE Transactions on Microwave Theory and Techniques (T-MTT)
+  - IEEE Transactions on Circuits and Systems I: Regular Paper (T-CAS-I)
+  - IEEE Transactions on Cricutis and Systems II: Brief Express (T-CAS-II)
+  - IEEE Microwave and Wireless Technology Letters (MWTL)
+  - Scientific Reports
+* Techinical Committee Service
+  - IEEE Dallas Circuits and Systems Conference (DSCA)
+  - IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (ISAIA)
+* Editorialship Service
+  - MDPI Sensors (special issue) - AI-Driven innovations for Enhanced Signal Intelligence: Applications in Radar and Biomedical Imaging Sensing 
+
+
   
 
 
