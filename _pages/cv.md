@@ -17,13 +17,13 @@ Education
 
 Professional Experience
 ======
-* 07/2025-07/2026: FAMU-FSU College of Engineering
+* 07/2025-07/2026: FAMU-FSU College of Engineering, Florida State University
   * Postdoctoral Research Scholar
 
 * 12/2024-06/2025: Scotts Micracle-Gro Company - R&D department
   * Sr. Electrical Engineer
 
-* 08/2021-12/2024: FAMU-FSU College of Engineering
+* 08/2021-12/2024: FAMU-FSU College of Engineering, Florida State University
   * Graduate Research Assistant
 
 * 08/2019-05/2021: University of Notre Dame
@@ -31,7 +31,7 @@ Professional Experience
 
 Service and leadership
 ======
-* Peer-Reviewer
+* Peer-Reviewer Service
   * IEEE Transactions on Microwave Theory and Techniques (T-MTT)
   * IEEE Transactions on Circuits and Systems I: Regular Paper (T-CAS I)
   * IEEE Transactions on Cricutis and Systems II: Brief Express (T-CAS II)
@@ -40,7 +40,7 @@ Service and leadership
 * Techinical Committee Service
   * IEEE Dallas Circuits and Systems Conference (DSCA)
   * IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (ISAIA)
-* Editorialship
+* Editorialship Service
   * MDPI Sensors (special issue) - AI-Driven innovations for Enhanced Signal Intelligence: Applications in Radar and Biomedical Imaging Sensing 
 
 Selected Publications
