@@ -48,7 +48,9 @@ Selected Publications
 * H. Zhang, H. Yan, F. Yan, et al., “An 18:1 Bandwidth 180º with Wideband Common-Mode Rejection Balun” IEEE MTT- S International Microwave Symposium (IMS), Boston, MA, USA, June 2026.
 * H. Zhang, S. Z. Pour, et al., “A Low-Cost Monopulse Radar Receiver with Relaxed Angular Ambiguity Estimation via Deep Neural Network Learning Method,” IEEE Transactions on Radar Systems, May. 2026.
 * S. Z. Pour, H. Zhang, P. Liu, B. Arigong, “Inverse Design and 3D Printing of a Multiport Microwave Power Splitter: A Scalable Electromagnetic Design Framework”, Communications Engineering, Feb. 2026.
-* H. Zhang, et al, “Real-Time Flexible Temporal Sequence RF Spectrum Sniffer with RF Processing Group Delay Network” IEEE Microwave and Wireless Technology Letters, April 2025.
+* M. Uzair, H. Zhang, A. Naseem, B. Arigong, “RF Signal Processing True Time-Delay Beamforming Phased Array” IEEE Transactions on Microwave Theory and Techniques, Sept. 2025.
+* H. Zhang, et al., “Real-Time Flexible Temporal Sequence RF Spectrum Sniffer with RF Processing Group Delay Network” IEEE Microwave and Wireless Technology Letters, April 2025.
+* H. Yan, H. Zhang, et al., “A Switchable Band RF/Analog Processing Single Sideband Mixer for Distributed Array Phase Synchronization,” IEEE Transactions on Microwave Theory and Techniques, Nov. 2024.
 * H. Zhang, H. Ren. P. Liu, H. Yan, B. Arigong, “Tunable 3 × 3 Nolen Matrix Network for Power-Saving Phased Array,” IEEE Microwave and Wireless Technology Letters, June 2024.
 * H. Zhang, B. Arigong, “A Novel Frequency Reconfigurable RF Hilbert Transformer for Real-Time Analog Signal Processing” IEEE Transactions on Circuits and Systems II: Express Briefs, Dec. 2022.
 * H. Zhang, B. Arigong, “Fully 3D Coverage Beamforming Phased Array with Reduced Phase Shifters and Control 2D Tunable 3 × 3 Nolen Matrix” IEEE International Symposium on Phased Array & Technology, Waltham, MA, USA, Oct. 2022.
