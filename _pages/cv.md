@@ -53,6 +53,7 @@ Selected Publications
 * H. Zhang, B. Arigong, “A Novel Frequency Reconfigurable RF Hilbert Transformer for Real-Time Analog Signal Processing” IEEE Transactions on Circuits and Systems II: Express Briefs, Dec. 2022.
 * H. Zhang, B. Arigong, “Fully 3D Coverage Beamforming Phased Array with Reduced Phase Shifters and Control 2D Tunable 3 × 3 Nolen Matrix” IEEE International Symposium on Phased Array & Technology, Waltham, MA, USA, Oct. 2022.
 * H. Ren, H. Zhang, Y. Jin, Y. Gu, B. Arigong, “A Novel 2D 3 × 3 Nolen Matrix for 2D Beamforming Applications” IEEE Transactions on Microwave Theory and Techniques, June 2019.
+* H. Zhang, H. Ren, et al., “A Microstrip Line Reflection-Type Phase Shifter for 60GHz Phased Array” IEEE MTT-S International Microwave Symposium (IMS), Boston, MA, USA, June 2019.
   
 
 
