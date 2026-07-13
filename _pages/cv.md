@@ -17,6 +17,9 @@ Education
 
 Professional Experience
 ======
+* 08/2026-present: School of Electrical Engineering and Computer Science, University of North Dakota
+  - Research Assistant Professor
+
 * 07/2025-07/2026: FAMU-FSU College of Engineering, Florida State University
   - Postdoctoral Research Scholar
 
