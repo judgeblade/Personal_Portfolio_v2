@@ -4,11 +4,11 @@ collection: teaching
 type: "Combined Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of North Dakota, SEECS"
-date: 2015-01-01
+date: 2028-08-24
 location: "Grand Forks, ND"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Review of transmission lines and plane waves, analysis of microwave networks and components using scattering matrices, analysis of periodic structures, transmission and cavity type filters, high frequency effects, microwave oscillators, amplifiers, and microwave measurement techniques.
 
 Heading 1
 ======
