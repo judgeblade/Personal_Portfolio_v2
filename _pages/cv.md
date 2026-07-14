@@ -34,7 +34,8 @@ Professional Experience
 
 Selected Publications
 ======
-* <strong>H. Zhang</strong>, H. Yan, et al., "A Novel Reconfigurable Real-Time RF Signal Processor in Application of Wideband Phased Array for <i>S</i>-Band to <i>Ku</i>-Band Satellite Communications"<i>IEEE Transactions on Microwave Theory and Techniques</i> (T-MTT), July 2026
+* H. Yan, <strong>H. Zhang</strong>, et al., "Butler Matrix – Beyond Its Phased Array Application – Tunable Spectrum Sniffer Design"<i>IEEE Transactions on Microwave Theory and Techniques</i> (T-MTT), July 2026.
+* <strong>H. Zhang</strong>, H. Yan, et al., "A Novel Reconfigurable Real-Time RF Signal Processor in Application of Wideband Phased Array for <i>S</i>-Band to <i>Ku</i>-Band Satellite Communications"<i>IEEE Transactions on Microwave Theory and Techniques</i> (T-MTT), July 2026.
 * <strong>H. Zhang</strong>, H. Yan, et al., “An 18:1 Bandwidth 180º with Wideband Common-Mode Rejection Balun” <i>IEEE MTT- S International Microwave Symposium</i> (IMS), Boston, MA, USA, June 2026.
 * <strong>H. Zhang</strong>, S. Z. Pour, et al., “[A Low-Cost Monopulse Radar Receiver with Relaxed Angular Ambiguity Estimation via Deep Neural Network Learning Method](https://ieeexplore.ieee.org/abstract/document/11515239),” <i>IEEE Transactions on Radar Systems</i> (T-RS), May. 2026.
 * S. Z. Pour, <strong>H. Zhang</strong>, et al., “[Inverse Design and 3D Printing of a Multiport Microwave Power Splitter: A Scalable Electromagnetic Design Framework](https://www.nature.com/articles/s44172-026-00601-y)”, <i>Nature Portfolio: Communications Engineering</i>, Feb. 2026.
