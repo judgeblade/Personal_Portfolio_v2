@@ -4,7 +4,7 @@ collection: teaching
 type: "Combined Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of North Dakota, SEECS"
-date: 2028-08-24
+date: 2026-08-24
 location: "Grand Forks, ND"
 ---
 
