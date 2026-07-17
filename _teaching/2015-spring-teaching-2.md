@@ -1,9 +1,9 @@
 ---
 title: "EE435/EE535: Microwave Circuit Design I"
 collection: teaching
-type: "Combined Course"
+type: "Combined Course for Undergrad & Grad"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University of North Dakota, SEECS"
+venue: "School of Electrical Engineering and Computer Science, University of North Dakota"
 date: 2026-08-24
 location: "Grand Forks, ND"
 ---
