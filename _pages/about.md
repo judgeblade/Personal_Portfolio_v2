@@ -7,16 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hanxiang Zhang is a Research Assistant professor in School of Electrical Engineering and Computer Science (SEECS) at University of North Dakota (UND). Before joining UND SEECS, he was a postdoctoral research scholar in Florida A&M University -Florida State University (FAMU-FSU) joint College of Engineering at Florida State University. He earned his Ph.D. degree of Electrical Engineering from department of Electrical and Computer Engineering at FSU in 2025. 
+Hanxiang Zhang is currently a Research Assistant professor in School of Electrical Engineering and Computer Science (SEECS) at the University of North Dakota (UND). 
 
-Currently, his research insterest inludes Radio Frequency (RF)/microwave circuits and components design, RF transceiver front-end module, beamforming techniques, wideband phased array system, and real-time RF signal processing, AI-driven microwave circuit design.  
+Before joining UND SEECS, he was a postdoctoral research scholar in Florida A&M University -Florida State University (FAMU-FSU) joint College of Engineering in Tallahasse Florida. He received his Ph.D. degree of Electrical Engineering from the Florida State University, and M.S. degree of Electrical Engineering from the University of Notre Dame.
 
-Research Expertise
-======
-- Ultra-Wideband Beamforming Phased Array for NextG Satelitte Communication (SATCOM) 
+His research insterest inludes: 
+- Radio Frequency (RF)/microwave circuits and components design
+- RF transceiver front-end module, beamforming techniques
+- Wideband phased array antenna system
+- Real-time RF signal processing
+- AI-driven microwave circuit & EM device design and optimization.
 
-- AI-Driven Detection Accuracy Enhanced Monopulse Tracking Radar System
+Please stay tuned for the prospective opportinities of undergrad/graduate research assistant positions.
 
-- Novel RF/Microwave Circuits and Components-ased Real-Time RF Signal Processing
 
 
