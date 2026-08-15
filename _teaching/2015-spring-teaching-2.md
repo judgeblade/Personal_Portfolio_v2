@@ -1,9 +1,9 @@
 ---
 title: "EE435/EE535: Microwave Circuit Design I, Fall 2026"
 collection: teaching
-type: "Combined Course for Undergrad & Grad"
+type: "Combined Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "School of Electrical Engineering and Computer Science, University of North Dakota"
+venue: "CEM-SEECS, University of North Dakota"
 date: 2026-08-24
 location: "Grand Forks, ND"
 ---
