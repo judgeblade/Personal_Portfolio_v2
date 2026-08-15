@@ -6,28 +6,26 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-======
-{% include base_path %}
 
 Education
 ======
 * Ph.D of Electrical Engineering - Florida State University, Tallahassee, FL, USA, 2025
 * M.S. of Electrical Engineering - University of Notre Dame, South Bend, IN, USA, 2021
-* B.S. of Electronics and Information Technology - Huaiyin Normal University, Huai'an, Jiangsu, China, 2016
+* B.S. of Electronics and Information Science - Huaiyin Normal University, Huai'an, Jiangsu, China, 2016
 
 Professional Experience
 ======
 * School of Electrical Engineering and Computer Science, University of North Dakota
   - 08/2026-present: Research Assistant Professor
 
-* FAMU-FSU College of Engineering
+* Florida A&M University - Florida State University College of Engineering
   - 07/2025-07/2026: Postdoctoral Research Scholar
   - 08/2021-12/2024: Graduate Research Assistant
 
 * Electronics R&D department, Scotts Micracle-Gro Company 
   - 12/2024-06/2025: Sr. Electrical Engineer
 
-* University of Notre Dame
+* Department of Electrical Engineering, University of Notre Dame
   - 08/2019-05/2021: Graduate Teaching&Research Assistant
 
 Selected Publications
