@@ -18,7 +18,7 @@ His research insterest inludes:
 - Real-time RF signal processing
 - AI-driven microwave circuit & EM device design and optimization.
 
-Please stay tuned for the prospective opportinities of undergrad/graduate research assistant positions.
+<strong>Please stay tuned for the prospective opportinities of undergrad/graduate research assistant positions.</strong>
 
 
 
