@@ -61,7 +61,9 @@ Service & Leadership
   - IEEE Transactions on Circuits and Systems I: Regular Paper (T-CAS-I)
   - IEEE Transactions on Cricutis and Systems II: Brief Express (T-CAS-II)
   - IEEE Microwave and Wireless Technology Letters (MWTL)
+  - IEEE Journals of Microwaves
   - Scientific Reports
+  - Elsevier Array
 * Techinical Committee Service
   - IEEE Dallas Circuits and Systems Conference (DSCA)
   - IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (ISAIA)
