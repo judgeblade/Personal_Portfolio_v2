@@ -1,5 +1,5 @@
 ---
-title: "EE331: Electromagnetic Waves, Spring 2027"
+title: "EE  331: Electromagnetic Waves, Spring 2027"
 collection: teaching
 type: "Undergrad Course"
 permalink: /teaching/2027-spring-teaching-1

@@ -1,5 +1,5 @@
 ---
-title: "EE435/EE535: Microwave Circuit Design I, Fall 2026"
+title: "EE 435/535: Microwave Circuit Design I, Fall 2026"
 collection: teaching
 type: "Combined Course"
 permalink: /teaching/2015-spring-teaching-1
