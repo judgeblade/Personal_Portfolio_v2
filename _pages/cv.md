@@ -56,19 +56,19 @@ Awards/Honors
 
 Service & Leadership
 ======
-* Peer-Reviewer Service
+* Technical Peer-Reviewer Service
   - IEEE Transactions on Microwave Theory and Techniques (T-MTT)
-  - IEEE Transactions on Circuits and Systems I: Regular Paper (T-CAS-I)
-  - IEEE Transactions on Cricutis and Systems II: Brief Express (T-CAS-II)
+  - IEEE Transactions on Circuits and Systems I: Regular Paper (T-CAS I)
+  - IEEE Transactions on Cricutis and Systems II: Brief Express (T-CAS II)
   - IEEE Microwave and Wireless Technology Letters (MWTL)
-  - IEEE Journals of Microwaves
+  - IEEE Journal of Microwaves
   - Scientific Reports
   - Elsevier Array
 * Techinical Committee Service
   - IEEE Dallas Circuits and Systems Conference (DSCA)
   - IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (ISAIA)
 * Editorialship Service
-  - MDPI Sensors (special issue): AI-Driven innovations for Enhanced Signal Intelligence: Applications in Radar and Biomedical Imaging Sensing 
+  - Sensors (special issue): AI-Driven innovations for Enhanced Signal Intelligence: Applications in Radar and Biomedical Imaging Sensing, 2025-2026.
 
 
   
